@@ -193,7 +193,7 @@ const App = () => {
           <div className="flex items-center justify-between">
             <div className="flex items-center space-x-3">
               <Wallet className="w-8 h-8 text-emerald-600" />
-              <h1 className="text-2xl font-bold text-slate-800">BudgetTracker</h1>
+              <h1 className="text-2xl font-bold text-slate-800">Budget Mate</h1>
             </div>
             <button
               onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
